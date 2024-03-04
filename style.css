@@ -1,0 +1,43 @@
+body {
+font-family: "Mulish", sans-serif;
+font-weight: 700;
+font-style: normal;
+}
+
+.container {
+    width: 1200px;
+    margin: 190px;
+}
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.box1 {
+    width: 40%;
+    margin: 10px;
+    border: 1px solid black;
+    border-radius: 30px;
+    padding: 20px;
+}
+
+.heading {
+    color: #0a1d69;
+    line-height: 35px;
+}
+
+.heading1 {
+    font-weight: 500;
+    line-height: 30px;
+}
+
+.abc {
+    margin-left: 250px;
+    margin-top: -140px;
+}
+
+.abc1 {
+    margin-left: 280px;
+    margin-top: -180px;
+}
